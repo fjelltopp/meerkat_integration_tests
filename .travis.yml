@@ -2,16 +2,14 @@ matrix:
   include:
     - language: node_js
       node_js: 8.2.1
-      before_script:
+      install:
         - node --version - npm --version - node_modules/.bin/newman --version
       script:
         - node_modules/.bin/newman run jordan_production.postman_collection.json
     - langugage: python
       python: 3.6
-      before_script:
-        - pip install -r requirements.txt
-      script:
-        - nosetests -v
+      install: pip install -r requirements.txt
+      script: nosetests -v
 #notifications:
 #  slack:
 #    secure: JjUX6haQjBYdkO/NFYmRtP9XDab/SNOcsWOdB9vAwRAbmnDqMmnc5M1/gMYVTFHQdThQnf+3IRNcwklmPBNkufC25+Mmh73VSfUOSbTg9NSc4uQOUAsGVXo0GiuwA4c6xvqP8HPjquU0naV+KneobDHjUoF+2Jm6XphWJXA7JLLczZKyJs5sblznlOTkNAueBE9tBYSTsAxH5x/DMSYp0wC9n0zOAmfIBsUpyEQcK48Zo9W02RWhhQYzFsHOsZHJqo41Nz983EWfjOYJdt5nNKFFhPlPY+wxPOLMuSpcGYiD3sDscWaEJa2foMnBQO9g4qfpEOk2s3BZmSZUH4ORoJt2PLRTVm+R55S3PqZIerK0sACEIWuqqbObc3OkzHOdSoCqjFwoKP8anPO2UsyEN0LInKRIBcS9N6mUCty/017M7qLYLyLPF+S4xpta5S9BW9T5oraRq91DBNHqdeHk0kttdwmOxaWASB6dro12KNUDZRMP/wlOWtM7GC2CK4omsO3uFOqL/v04AHGf97hsiIlKga6hHVq4zWrg9oqxuki3Vdcw6nNg56hGuEUyPHFufrR5DVuteLWxiNwCbwxGuf7AnHfII1/zaI835h37Xfsd+t0HTHpM0PCXKqspo6MD2RJjhVMTqpQlMp4By2OGSW2/FkmrCBhpRyGALHcicm0=
