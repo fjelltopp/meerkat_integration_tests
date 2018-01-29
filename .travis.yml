@@ -1,10 +1,13 @@
 language: node_js
 node_js:
 - 8.2.1
+python:
+- 3.6
 install:
 - npm install newman
 before_script:
 - node --version - npm --version - node_modules/.bin/newman --version
+- pip install -r requirements.txt
 script:
 - node_modules/.bin/newman run jordan_production.postman_collection.json
 - nosetests -v
