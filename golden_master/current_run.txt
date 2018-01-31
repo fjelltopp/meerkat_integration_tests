@@ -1,0 +1,5377 @@
+Location ID: 1:
+{
+    "clinic_data": {
+        "20": {
+            "barcode_albe": {
+                "depletion": 0.0625,
+                "inventory": 375,
+                "max_date": "2018-01-28",
+                "min_date": "2018-01-06",
+                "prescriptions": 25,
+                "stock": 0.9375,
+                "total_prescriptions": 25
+            },
+            "barcode_amox": {
+                "depletion": 0.033166666666666664,
+                "inventory": 5801,
+                "max_date": "2018-01-29",
+                "min_date": "2017-03-27",
+                "prescriptions": 193,
+                "stock": 0.9668333333333333,
+                "total_prescriptions": 199
+            },
+            "barcode_artem": {
+                "prescriptions": 27
+            },
+            "barcode_benz": {
+                "depletion": 7.5,
+                "inventory": -13,
+                "max_date": "2018-01-28",
+                "min_date": "2018-01-06",
+                "prescriptions": 15,
+                "stock": -6.5,
+                "total_prescriptions": 15
+            },
+            "fe_folic": {
+                "prescriptions": 21
+            },
+            "ibuprofen": {
+                "prescriptions": 52
+            },
+            "magnesium": {
+                "prescriptions": 1
+            },
+            "malaria_test_kit": {
+                "prescriptions": 1
+            },
+            "miconazole": {
+                "prescriptions": 2
+            },
+            "ors": {
+                "prescriptions": 1
+            },
+            "ors_kid": {
+                "prescriptions": 21
+            },
+            "paracetamol_a": {
+                "prescriptions": 193
+            },
+            "paracetamol_kid_b": {
+                "prescriptions": 116
+            },
+            "tetracycline": {
+                "prescriptions": 2
+            },
+            "zinc_kid": {
+                "prescriptions": 30
+            }
+        },
+        "21": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 5998,
+                "max_date": "2017-03-20",
+                "min_date": "2017-03-17",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 2
+            }
+        },
+        "22": {
+            "barcode_zinc": {
+                "depletion": 0.005,
+                "inventory": 1990,
+                "max_date": "2017-07-13",
+                "min_date": "2017-05-13",
+                "stock": 0.995,
+                "total_prescriptions": 10
+            }
+        },
+        "25": {},
+        "29": {
+            "barcode_albe": {
+                "depletion": 0.0075,
+                "inventory": 397,
+                "max_date": "2018-01-23",
+                "min_date": "2018-01-17",
+                "prescriptions": 3,
+                "stock": 0.9925,
+                "total_prescriptions": 3
+            },
+            "barcode_amox": {
+                "depletion": 0.011666666666666667,
+                "inventory": 5930,
+                "max_date": "2018-01-23",
+                "min_date": "2017-05-14",
+                "prescriptions": 5,
+                "stock": 0.9883333333333333,
+                "total_prescriptions": 70
+            },
+            "barcode_artem": {
+                "prescriptions": 1
+            },
+            "barcode_fefu": {
+                "depletion": 0.00175,
+                "inventory": 3993,
+                "max_date": "2017-05-18",
+                "min_date": "2017-05-15",
+                "stock": 0.99825,
+                "total_prescriptions": 7
+            },
+            "barcode_ibup": {
+                "depletion": 0.0175,
+                "inventory": 393,
+                "max_date": "2017-06-13",
+                "min_date": "2017-05-18",
+                "stock": 0.9825,
+                "total_prescriptions": 7
+            },
+            "barcode_magn": {
+                "depletion": 0.005,
+                "inventory": 1990,
+                "max_date": "2017-05-25",
+                "min_date": "2017-05-15",
+                "stock": 0.995,
+                "total_prescriptions": 10
+            },
+            "barcode_orsl": {
+                "depletion": 0.0025,
+                "inventory": 399,
+                "max_date": "2017-05-27",
+                "min_date": "2017-05-27",
+                "stock": 0.9975,
+                "total_prescriptions": 1
+            },
+            "barcode_par1": {
+                "depletion": 0.0005,
+                "inventory": 1999,
+                "max_date": "2017-05-18",
+                "min_date": "2017-05-18",
+                "stock": 0.9995,
+                "total_prescriptions": 1
+            },
+            "ors": {
+                "prescriptions": 1
+            },
+            "ors_kid": {
+                "prescriptions": 1
+            },
+            "paracetamol_kid_b": {
+                "prescriptions": 3
+            },
+            "zinc_kid": {
+                "prescriptions": 9
+            }
+        },
+        "31": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 5998,
+                "max_date": "2017-05-30",
+                "min_date": "2017-03-16",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 2
+            },
+            "barcode_fefu": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-06-10",
+                "min_date": "2017-06-10",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_par1": {
+                "depletion": 0.001,
+                "inventory": 1998,
+                "max_date": "2017-05-31",
+                "min_date": "2017-05-30",
+                "stock": 0.999,
+                "total_prescriptions": 2
+            },
+            "barcode_par5": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-05-30",
+                "min_date": "2017-05-30",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_zinc": {
+                "depletion": 0.001,
+                "inventory": 1998,
+                "max_date": "2017-05-30",
+                "min_date": "2017-05-30",
+                "stock": 0.999,
+                "total_prescriptions": 2
+            }
+        },
+        "32": {
+            "barcode_albe": {
+                "depletion": 0.005,
+                "inventory": 398,
+                "max_date": "2017-05-23",
+                "min_date": "2017-05-23",
+                "stock": 0.995,
+                "total_prescriptions": 2
+            },
+            "barcode_amox": {
+                "depletion": 0.015333333333333332,
+                "inventory": 5908,
+                "max_date": "2017-05-28",
+                "min_date": "2017-05-18",
+                "stock": 0.9846666666666667,
+                "total_prescriptions": 92
+            },
+            "barcode_ibup": {
+                "depletion": 0.1875,
+                "inventory": 325,
+                "max_date": "2017-06-15",
+                "min_date": "2017-05-18",
+                "stock": 0.8125,
+                "total_prescriptions": 75
+            },
+            "barcode_magn": {
+                "depletion": 0.003,
+                "inventory": 1994,
+                "max_date": "2017-06-10",
+                "min_date": "2017-05-24",
+                "stock": 0.997,
+                "total_prescriptions": 6
+            },
+            "barcode_par1": {
+                "depletion": 0.0115,
+                "inventory": 1977,
+                "max_date": "2017-06-11",
+                "min_date": "2017-05-18",
+                "stock": 0.9885,
+                "total_prescriptions": 23
+            },
+            "barcode_par5": {
+                "depletion": 0.00075,
+                "inventory": 3997,
+                "max_date": "2017-07-13",
+                "min_date": "2017-07-04",
+                "stock": 0.99925,
+                "total_prescriptions": 3
+            },
+            "barcode_zinc": {
+                "depletion": 0.0005,
+                "inventory": 1999,
+                "max_date": "2017-05-21",
+                "min_date": "2017-05-21",
+                "stock": 0.9995,
+                "total_prescriptions": 1
+            }
+        },
+        "33": {
+            "barcode_amox": {
+                "depletion": 0.0006666666666666666,
+                "inventory": 5996,
+                "max_date": "2017-12-17",
+                "min_date": "2017-03-17",
+                "stock": 0.9993333333333333,
+                "total_prescriptions": 4
+            }
+        },
+        "35": {
+            "barcode_albe": {
+                "depletion": 0.0025,
+                "inventory": 399,
+                "max_date": "2017-08-13",
+                "min_date": "2017-08-13",
+                "stock": 0.9975,
+                "total_prescriptions": 1
+            },
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 5998,
+                "max_date": "2017-07-18",
+                "min_date": "2017-07-15",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 2
+            },
+            "barcode_fefu": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-06-13",
+                "min_date": "2017-06-13",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_par5": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-11-16",
+                "min_date": "2017-11-16",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            }
+        },
+        "37": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 2999,
+                "max_date": "2017-12-17",
+                "min_date": "2017-12-17",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 1
+            }
+        },
+        "38": {
+            "barcode_amox": {
+                "depletion": 0.00011111111111111112,
+                "inventory": 8999,
+                "max_date": "2017-04-01",
+                "min_date": "2017-04-01",
+                "stock": 0.9998888888888889,
+                "total_prescriptions": 1
+            }
+        },
+        "39": {
+            "barcode_amox": {
+                "depletion": 0.0006666666666666666,
+                "inventory": 2998,
+                "max_date": "2017-12-30",
+                "min_date": "2017-12-26",
+                "stock": 0.9993333333333333,
+                "total_prescriptions": 2
+            },
+            "barcode_chlo": {
+                "depletion": 1.0,
+                "inventory": 1,
+                "max_date": "2018-01-02",
+                "min_date": "2018-01-02",
+                "prescriptions": 1,
+                "stock": 0.0,
+                "total_prescriptions": 1
+            },
+            "ors": {
+                "prescriptions": 1
+            },
+            "ors_kid": {
+                "prescriptions": 1
+            },
+            "paracetamol_a": {
+                "prescriptions": 1
+            },
+            "paracetamol_kid_b": {
+                "prescriptions": 3
+            }
+        },
+        "40": {
+            "barcode_amox": {
+                "depletion": 0.0005,
+                "inventory": 5997,
+                "max_date": "2018-01-02",
+                "min_date": "2017-12-20",
+                "prescriptions": 1,
+                "stock": 0.9995,
+                "total_prescriptions": 3
+            }
+        },
+        "42": {
+            "barcode_albe": {
+                "depletion": 0.0025,
+                "inventory": 399,
+                "max_date": "2017-07-25",
+                "min_date": "2017-07-25",
+                "stock": 0.9975,
+                "total_prescriptions": 1
+            },
+            "barcode_amox": {
+                "depletion": 0.0065,
+                "inventory": 5961,
+                "max_date": "2017-08-16",
+                "min_date": "2017-06-19",
+                "stock": 0.9935,
+                "total_prescriptions": 39
+            },
+            "barcode_benz": {
+                "depletion": 0.5,
+                "inventory": 1,
+                "max_date": "2018-01-30",
+                "min_date": "2018-01-30",
+                "prescriptions": 1,
+                "stock": 0.5,
+                "total_prescriptions": 1
+            },
+            "barcode_fefu": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-06-21",
+                "min_date": "2017-06-21",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_orsl": {
+                "depletion": 0.0375,
+                "inventory": 385,
+                "max_date": "2017-08-24",
+                "min_date": "2017-06-19",
+                "stock": 0.9625,
+                "total_prescriptions": 15
+            },
+            "barcode_par5": {
+                "depletion": 0.0025,
+                "inventory": 3990,
+                "max_date": "2017-08-21",
+                "min_date": "2017-07-25",
+                "stock": 0.9975,
+                "total_prescriptions": 10
+            },
+            "barcode_zinc": {
+                "depletion": 0.004,
+                "inventory": 1992,
+                "max_date": "2017-08-22",
+                "min_date": "2017-07-29",
+                "stock": 0.996,
+                "total_prescriptions": 8
+            },
+            "zinc_kid": {
+                "prescriptions": 1
+            }
+        },
+        "43": {
+            "barcode_albe": {
+                "depletion": 0.02,
+                "inventory": 196,
+                "max_date": "2017-08-20",
+                "min_date": "2017-08-02",
+                "stock": 0.98,
+                "total_prescriptions": 4
+            },
+            "barcode_amox": {
+                "depletion": 0.009333333333333334,
+                "inventory": 2972,
+                "max_date": "2017-08-09",
+                "min_date": "2017-07-25",
+                "stock": 0.9906666666666667,
+                "total_prescriptions": 28
+            },
+            "barcode_magn": {
+                "depletion": 0.022,
+                "inventory": 978,
+                "max_date": "2017-08-09",
+                "min_date": "2017-07-22",
+                "stock": 0.978,
+                "total_prescriptions": 22
+            },
+            "barcode_orsl": {
+                "depletion": 0.355,
+                "inventory": 129,
+                "max_date": "2017-08-28",
+                "min_date": "2017-07-22",
+                "stock": 0.645,
+                "total_prescriptions": 71
+            },
+            "barcode_par1": {
+                "depletion": 0.001,
+                "inventory": 999,
+                "max_date": "2017-07-22",
+                "min_date": "2017-07-22",
+                "stock": 0.999,
+                "total_prescriptions": 1
+            },
+            "barcode_zinc": {
+                "depletion": 0.002,
+                "inventory": 998,
+                "max_date": "2017-08-02",
+                "min_date": "2017-07-22",
+                "stock": 0.998,
+                "total_prescriptions": 2
+            }
+        },
+        "44": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 2999,
+                "max_date": "2017-07-06",
+                "min_date": "2017-07-06",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 1
+            },
+            "barcode_magn": {
+                "depletion": 0.001,
+                "inventory": 999,
+                "max_date": "2017-06-03",
+                "min_date": "2017-06-03",
+                "stock": 0.999,
+                "total_prescriptions": 1
+            },
+            "barcode_orsl": {
+                "depletion": 0.05,
+                "inventory": 190,
+                "max_date": "2017-06-05",
+                "min_date": "2017-05-31",
+                "stock": 0.95,
+                "total_prescriptions": 10
+            },
+            "barcode_par5": {
+                "depletion": 0.0025,
+                "inventory": 1995,
+                "max_date": "2017-09-07",
+                "min_date": "2017-08-03",
+                "stock": 0.9975,
+                "total_prescriptions": 5
+            },
+            "barcode_zinc": {
+                "depletion": 0.011,
+                "inventory": 989,
+                "max_date": "2017-06-05",
+                "min_date": "2017-05-31",
+                "stock": 0.989,
+                "total_prescriptions": 11
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "depletion": 7.5,
+            "max_date": "2018-01-30",
+            "min_date": "2017-03-27",
+            "most_depleted_medicine": "Benzylbenzoate Lotion 25%",
+            "str_depletion": "750.0%"
+        },
+        {
+            "clinic_id": "21",
+            "clinic_name": "Godob Jiraan",
+            "depletion": 0.0003333333333333333,
+            "max_date": "2017-03-20",
+            "min_date": "2017-03-17",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.0%"
+        },
+        {
+            "clinic_id": "22",
+            "clinic_name": "Yoonbays MCH",
+            "depletion": 0.005,
+            "max_date": "2017-07-13",
+            "min_date": "2017-05-13",
+            "most_depleted_medicine": "Zinc 20mg tablets",
+            "str_depletion": "0.5%"
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "depletion": 0.0175,
+            "max_date": "2018-01-30",
+            "min_date": "2017-05-14",
+            "most_depleted_medicine": "Ibuprofen 400mg tabs/PAC-100",
+            "str_depletion": "1.8%"
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "depletion": 0.001,
+            "max_date": "2017-06-10",
+            "min_date": "2017-03-16",
+            "most_depleted_medicine": "Paracetamol 100mg tabs",
+            "str_depletion": "0.1%"
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "depletion": 0.1875,
+            "max_date": "2017-07-13",
+            "min_date": "2017-05-18",
+            "most_depleted_medicine": "Ibuprofen 400mg tabs/PAC-100",
+            "str_depletion": "18.8%"
+        },
+        {
+            "clinic_id": "33",
+            "clinic_name": "Kalkal MCH",
+            "depletion": 0.0006666666666666666,
+            "max_date": "2017-12-17",
+            "min_date": "2017-03-17",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.1%"
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "depletion": 0.0025,
+            "max_date": "2017-11-16",
+            "min_date": "2017-06-13",
+            "most_depleted_medicine": "Albendazole 400mg chewable tabs",
+            "str_depletion": "0.2%"
+        },
+        {
+            "clinic_id": "37",
+            "clinic_name": "Horumar HC",
+            "depletion": 0.0003333333333333333,
+            "max_date": "2017-12-17",
+            "min_date": "2017-12-17",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.0%"
+        },
+        {
+            "clinic_id": "38",
+            "clinic_name": "Buraan MCH",
+            "depletion": 0.00011111111111111112,
+            "max_date": "2017-04-01",
+            "min_date": "2017-04-01",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.0%"
+        },
+        {
+            "clinic_id": "39",
+            "clinic_name": "Qudus",
+            "depletion": 1.0,
+            "max_date": "2018-01-27",
+            "min_date": "2017-12-25",
+            "most_depleted_medicine": "Chlorhexidine Gluconate Solution 5%",
+            "str_depletion": "100.0%"
+        },
+        {
+            "clinic_id": "40",
+            "clinic_name": "Dhahar HC",
+            "depletion": 0.0005,
+            "max_date": "2018-01-02",
+            "min_date": "2017-12-20",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.1%"
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "depletion": 0.5,
+            "max_date": "2018-01-30",
+            "min_date": "2017-06-19",
+            "most_depleted_medicine": "Benzylbenzoate Lotion 25%",
+            "str_depletion": "50.0%"
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "depletion": 0.355,
+            "max_date": "2017-08-28",
+            "min_date": "2017-07-22",
+            "most_depleted_medicine": "ORS low osm. 20.5g/1L CAR",
+            "str_depletion": "35.5%"
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "depletion": 0.05,
+            "max_date": "2017-09-07",
+            "min_date": "2017-05-31",
+            "most_depleted_medicine": "ORS low osm. 20.5g/1L CAR",
+            "str_depletion": "5.0%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "max_date": "2018-01-28",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2018-01-06",
+            "old_str_stock": "93.8%",
+            "stock": 0.9375,
+            "str_stock": "93.8%",
+            "total_prescriptions": 25
+        },
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "max_date": "2018-01-29",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-27",
+            "old_str_stock": "96.7%",
+            "stock": 0.9668333333333333,
+            "str_stock": "96.7%",
+            "total_prescriptions": 199
+        },
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "max_date": "2018-01-28",
+            "medicine_name": "Benzylbenzoate Lotion 25%",
+            "min_date": "2018-01-06",
+            "old_str_stock": "-650.0%",
+            "stock": -6.5,
+            "str_stock": "-650.0%",
+            "total_prescriptions": 15
+        },
+        {
+            "clinic_id": "21",
+            "clinic_name": "Godob Jiraan",
+            "max_date": "2017-03-20",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-17",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "22",
+            "clinic_name": "Yoonbays MCH",
+            "max_date": "2017-07-13",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-13",
+            "old_str_stock": "99.5%",
+            "stock": 0.995,
+            "str_stock": "99.5%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2018-01-23",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2018-01-17",
+            "old_str_stock": "99.2%",
+            "stock": 0.9925,
+            "str_stock": "99.2%",
+            "total_prescriptions": 3
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2018-01-23",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-05-14",
+            "old_str_stock": "98.8%",
+            "stock": 0.9883333333333333,
+            "str_stock": "98.8%",
+            "total_prescriptions": 70
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-18",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-05-15",
+            "old_str_stock": "99.8%",
+            "stock": 0.99825,
+            "str_stock": "99.8%",
+            "total_prescriptions": 7
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-06-13",
+            "medicine_name": "Ibuprofen 400mg tabs/PAC-100",
+            "min_date": "2017-05-18",
+            "old_str_stock": "98.2%",
+            "stock": 0.9825,
+            "str_stock": "98.2%",
+            "total_prescriptions": 7
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-25",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-05-15",
+            "old_str_stock": "99.5%",
+            "stock": 0.995,
+            "str_stock": "99.5%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-27",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-05-27",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-18",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-05-18",
+            "old_str_stock": "100.0%",
+            "stock": 0.9995,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-30",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-16",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-06-10",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-06-10",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-31",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-05-30",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-30",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-05-30",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-30",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-30",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-05-23",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-05-23",
+            "old_str_stock": "99.5%",
+            "stock": 0.995,
+            "str_stock": "99.5%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-05-28",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-05-18",
+            "old_str_stock": "98.5%",
+            "stock": 0.9846666666666667,
+            "str_stock": "98.5%",
+            "total_prescriptions": 92
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-06-15",
+            "medicine_name": "Ibuprofen 400mg tabs/PAC-100",
+            "min_date": "2017-05-18",
+            "old_str_stock": "81.2%",
+            "stock": 0.8125,
+            "str_stock": "81.2%",
+            "total_prescriptions": 75
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-06-10",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-05-24",
+            "old_str_stock": "99.7%",
+            "stock": 0.997,
+            "str_stock": "99.7%",
+            "total_prescriptions": 6
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-06-11",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-05-18",
+            "old_str_stock": "98.9%",
+            "stock": 0.9885,
+            "str_stock": "98.9%",
+            "total_prescriptions": 23
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-07-13",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-07-04",
+            "old_str_stock": "99.9%",
+            "stock": 0.99925,
+            "str_stock": "99.9%",
+            "total_prescriptions": 3
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-05-21",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-21",
+            "old_str_stock": "100.0%",
+            "stock": 0.9995,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "33",
+            "clinic_name": "Kalkal MCH",
+            "max_date": "2017-12-17",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-17",
+            "old_str_stock": "99.9%",
+            "stock": 0.9993333333333333,
+            "str_stock": "99.9%",
+            "total_prescriptions": 4
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-08-13",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-08-13",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-07-18",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-07-15",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-06-13",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-06-13",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-11-16",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-11-16",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "37",
+            "clinic_name": "Horumar HC",
+            "max_date": "2017-12-17",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-12-17",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "38",
+            "clinic_name": "Buraan MCH",
+            "max_date": "2017-04-01",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-04-01",
+            "old_str_stock": "100.0%",
+            "stock": 0.9998888888888889,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "39",
+            "clinic_name": "Qudus",
+            "max_date": "2017-12-30",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-12-26",
+            "old_str_stock": "99.9%",
+            "stock": 0.9993333333333333,
+            "str_stock": "99.9%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "40",
+            "clinic_name": "Dhahar HC",
+            "max_date": "2018-01-02",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-12-20",
+            "old_str_stock": "100.0%",
+            "stock": 0.9995,
+            "str_stock": "100.0%",
+            "total_prescriptions": 3
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-07-25",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-07-25",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-16",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-06-19",
+            "old_str_stock": "99.4%",
+            "stock": 0.9935,
+            "str_stock": "99.4%",
+            "total_prescriptions": 39
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2018-01-30",
+            "medicine_name": "Benzylbenzoate Lotion 25%",
+            "min_date": "2018-01-30",
+            "old_str_stock": "50.0%",
+            "stock": 0.5,
+            "str_stock": "50.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-06-21",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-06-21",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-24",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-06-19",
+            "old_str_stock": "96.2%",
+            "stock": 0.9625,
+            "str_stock": "96.2%",
+            "total_prescriptions": 15
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-21",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-07-25",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-22",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-07-29",
+            "old_str_stock": "99.6%",
+            "stock": 0.996,
+            "str_stock": "99.6%",
+            "total_prescriptions": 8
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-20",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-08-02",
+            "old_str_stock": "98.0%",
+            "stock": 0.98,
+            "str_stock": "98.0%",
+            "total_prescriptions": 4
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-09",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-07-25",
+            "old_str_stock": "99.1%",
+            "stock": 0.9906666666666667,
+            "str_stock": "99.1%",
+            "total_prescriptions": 28
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-09",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-07-22",
+            "old_str_stock": "97.8%",
+            "stock": 0.978,
+            "str_stock": "97.8%",
+            "total_prescriptions": 22
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-28",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-07-22",
+            "old_str_stock": "64.5%",
+            "stock": 0.645,
+            "str_stock": "64.5%",
+            "total_prescriptions": 71
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-07-22",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-07-22",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-02",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-07-22",
+            "old_str_stock": "99.8%",
+            "stock": 0.998,
+            "str_stock": "99.8%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-07-06",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-07-06",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-06-03",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-06-03",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-06-05",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-05-31",
+            "old_str_stock": "95.0%",
+            "stock": 0.95,
+            "str_stock": "95.0%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-09-07",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-08-03",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 5
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-06-05",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-31",
+            "old_str_stock": "98.9%",
+            "stock": 0.989,
+            "str_stock": "98.9%",
+            "total_prescriptions": 11
+        }
+    ]
+}
+Location ID: 2:
+{
+    "clinic_data": {
+        "20": {
+            "barcode_albe": {
+                "depletion": 0.0625,
+                "inventory": 375,
+                "max_date": "2018-01-28",
+                "min_date": "2018-01-06",
+                "prescriptions": 25,
+                "stock": 0.9375,
+                "total_prescriptions": 25
+            },
+            "barcode_amox": {
+                "depletion": 0.033166666666666664,
+                "inventory": 5801,
+                "max_date": "2018-01-29",
+                "min_date": "2017-03-27",
+                "prescriptions": 193,
+                "stock": 0.9668333333333333,
+                "total_prescriptions": 199
+            },
+            "barcode_artem": {
+                "prescriptions": 27
+            },
+            "barcode_benz": {
+                "depletion": 7.5,
+                "inventory": -13,
+                "max_date": "2018-01-28",
+                "min_date": "2018-01-06",
+                "prescriptions": 15,
+                "stock": -6.5,
+                "total_prescriptions": 15
+            },
+            "fe_folic": {
+                "prescriptions": 21
+            },
+            "ibuprofen": {
+                "prescriptions": 52
+            },
+            "magnesium": {
+                "prescriptions": 1
+            },
+            "malaria_test_kit": {
+                "prescriptions": 1
+            },
+            "miconazole": {
+                "prescriptions": 2
+            },
+            "ors": {
+                "prescriptions": 1
+            },
+            "ors_kid": {
+                "prescriptions": 21
+            },
+            "paracetamol_a": {
+                "prescriptions": 193
+            },
+            "paracetamol_kid_b": {
+                "prescriptions": 116
+            },
+            "tetracycline": {
+                "prescriptions": 2
+            },
+            "zinc_kid": {
+                "prescriptions": 30
+            }
+        },
+        "29": {
+            "barcode_albe": {
+                "depletion": 0.0075,
+                "inventory": 397,
+                "max_date": "2018-01-23",
+                "min_date": "2018-01-17",
+                "prescriptions": 3,
+                "stock": 0.9925,
+                "total_prescriptions": 3
+            },
+            "barcode_amox": {
+                "depletion": 0.011666666666666667,
+                "inventory": 5930,
+                "max_date": "2018-01-23",
+                "min_date": "2017-05-14",
+                "prescriptions": 5,
+                "stock": 0.9883333333333333,
+                "total_prescriptions": 70
+            },
+            "barcode_artem": {
+                "prescriptions": 1
+            },
+            "barcode_fefu": {
+                "depletion": 0.00175,
+                "inventory": 3993,
+                "max_date": "2017-05-18",
+                "min_date": "2017-05-15",
+                "stock": 0.99825,
+                "total_prescriptions": 7
+            },
+            "barcode_ibup": {
+                "depletion": 0.0175,
+                "inventory": 393,
+                "max_date": "2017-06-13",
+                "min_date": "2017-05-18",
+                "stock": 0.9825,
+                "total_prescriptions": 7
+            },
+            "barcode_magn": {
+                "depletion": 0.005,
+                "inventory": 1990,
+                "max_date": "2017-05-25",
+                "min_date": "2017-05-15",
+                "stock": 0.995,
+                "total_prescriptions": 10
+            },
+            "barcode_orsl": {
+                "depletion": 0.0025,
+                "inventory": 399,
+                "max_date": "2017-05-27",
+                "min_date": "2017-05-27",
+                "stock": 0.9975,
+                "total_prescriptions": 1
+            },
+            "barcode_par1": {
+                "depletion": 0.0005,
+                "inventory": 1999,
+                "max_date": "2017-05-18",
+                "min_date": "2017-05-18",
+                "stock": 0.9995,
+                "total_prescriptions": 1
+            },
+            "ors": {
+                "prescriptions": 1
+            },
+            "ors_kid": {
+                "prescriptions": 1
+            },
+            "paracetamol_kid_b": {
+                "prescriptions": 3
+            },
+            "zinc_kid": {
+                "prescriptions": 9
+            }
+        },
+        "32": {
+            "barcode_albe": {
+                "depletion": 0.005,
+                "inventory": 398,
+                "max_date": "2017-05-23",
+                "min_date": "2017-05-23",
+                "stock": 0.995,
+                "total_prescriptions": 2
+            },
+            "barcode_amox": {
+                "depletion": 0.015333333333333332,
+                "inventory": 5908,
+                "max_date": "2017-05-28",
+                "min_date": "2017-05-18",
+                "stock": 0.9846666666666667,
+                "total_prescriptions": 92
+            },
+            "barcode_ibup": {
+                "depletion": 0.1875,
+                "inventory": 325,
+                "max_date": "2017-06-15",
+                "min_date": "2017-05-18",
+                "stock": 0.8125,
+                "total_prescriptions": 75
+            },
+            "barcode_magn": {
+                "depletion": 0.003,
+                "inventory": 1994,
+                "max_date": "2017-06-10",
+                "min_date": "2017-05-24",
+                "stock": 0.997,
+                "total_prescriptions": 6
+            },
+            "barcode_par1": {
+                "depletion": 0.0115,
+                "inventory": 1977,
+                "max_date": "2017-06-11",
+                "min_date": "2017-05-18",
+                "stock": 0.9885,
+                "total_prescriptions": 23
+            },
+            "barcode_par5": {
+                "depletion": 0.00075,
+                "inventory": 3997,
+                "max_date": "2017-07-13",
+                "min_date": "2017-07-04",
+                "stock": 0.99925,
+                "total_prescriptions": 3
+            },
+            "barcode_zinc": {
+                "depletion": 0.0005,
+                "inventory": 1999,
+                "max_date": "2017-05-21",
+                "min_date": "2017-05-21",
+                "stock": 0.9995,
+                "total_prescriptions": 1
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "depletion": 7.5,
+            "max_date": "2018-01-30",
+            "min_date": "2017-03-27",
+            "most_depleted_medicine": "Benzylbenzoate Lotion 25%",
+            "str_depletion": "750.0%"
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "depletion": 0.0175,
+            "max_date": "2018-01-30",
+            "min_date": "2017-05-14",
+            "most_depleted_medicine": "Ibuprofen 400mg tabs/PAC-100",
+            "str_depletion": "1.8%"
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "depletion": 0.1875,
+            "max_date": "2017-07-13",
+            "min_date": "2017-05-18",
+            "most_depleted_medicine": "Ibuprofen 400mg tabs/PAC-100",
+            "str_depletion": "18.8%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "max_date": "2018-01-28",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2018-01-06",
+            "old_str_stock": "93.8%",
+            "stock": 0.9375,
+            "str_stock": "93.8%",
+            "total_prescriptions": 25
+        },
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "max_date": "2018-01-29",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-27",
+            "old_str_stock": "96.7%",
+            "stock": 0.9668333333333333,
+            "str_stock": "96.7%",
+            "total_prescriptions": 199
+        },
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "max_date": "2018-01-28",
+            "medicine_name": "Benzylbenzoate Lotion 25%",
+            "min_date": "2018-01-06",
+            "old_str_stock": "-650.0%",
+            "stock": -6.5,
+            "str_stock": "-650.0%",
+            "total_prescriptions": 15
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2018-01-23",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2018-01-17",
+            "old_str_stock": "99.2%",
+            "stock": 0.9925,
+            "str_stock": "99.2%",
+            "total_prescriptions": 3
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2018-01-23",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-05-14",
+            "old_str_stock": "98.8%",
+            "stock": 0.9883333333333333,
+            "str_stock": "98.8%",
+            "total_prescriptions": 70
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-18",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-05-15",
+            "old_str_stock": "99.8%",
+            "stock": 0.99825,
+            "str_stock": "99.8%",
+            "total_prescriptions": 7
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-06-13",
+            "medicine_name": "Ibuprofen 400mg tabs/PAC-100",
+            "min_date": "2017-05-18",
+            "old_str_stock": "98.2%",
+            "stock": 0.9825,
+            "str_stock": "98.2%",
+            "total_prescriptions": 7
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-25",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-05-15",
+            "old_str_stock": "99.5%",
+            "stock": 0.995,
+            "str_stock": "99.5%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-27",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-05-27",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-18",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-05-18",
+            "old_str_stock": "100.0%",
+            "stock": 0.9995,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-05-23",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-05-23",
+            "old_str_stock": "99.5%",
+            "stock": 0.995,
+            "str_stock": "99.5%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-05-28",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-05-18",
+            "old_str_stock": "98.5%",
+            "stock": 0.9846666666666667,
+            "str_stock": "98.5%",
+            "total_prescriptions": 92
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-06-15",
+            "medicine_name": "Ibuprofen 400mg tabs/PAC-100",
+            "min_date": "2017-05-18",
+            "old_str_stock": "81.2%",
+            "stock": 0.8125,
+            "str_stock": "81.2%",
+            "total_prescriptions": 75
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-06-10",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-05-24",
+            "old_str_stock": "99.7%",
+            "stock": 0.997,
+            "str_stock": "99.7%",
+            "total_prescriptions": 6
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-06-11",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-05-18",
+            "old_str_stock": "98.9%",
+            "stock": 0.9885,
+            "str_stock": "98.9%",
+            "total_prescriptions": 23
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-07-13",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-07-04",
+            "old_str_stock": "99.9%",
+            "stock": 0.99925,
+            "str_stock": "99.9%",
+            "total_prescriptions": 3
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-05-21",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-21",
+            "old_str_stock": "100.0%",
+            "stock": 0.9995,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        }
+    ]
+}
+Location ID: 3:
+{
+    "clinic_data": {
+        "35": {
+            "barcode_albe": {
+                "depletion": 0.0025,
+                "inventory": 399,
+                "max_date": "2017-08-13",
+                "min_date": "2017-08-13",
+                "stock": 0.9975,
+                "total_prescriptions": 1
+            },
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 5998,
+                "max_date": "2017-07-18",
+                "min_date": "2017-07-15",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 2
+            },
+            "barcode_fefu": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-06-13",
+                "min_date": "2017-06-13",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_par5": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-11-16",
+                "min_date": "2017-11-16",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            }
+        },
+        "42": {
+            "barcode_albe": {
+                "depletion": 0.0025,
+                "inventory": 399,
+                "max_date": "2017-07-25",
+                "min_date": "2017-07-25",
+                "stock": 0.9975,
+                "total_prescriptions": 1
+            },
+            "barcode_amox": {
+                "depletion": 0.0065,
+                "inventory": 5961,
+                "max_date": "2017-08-16",
+                "min_date": "2017-06-19",
+                "stock": 0.9935,
+                "total_prescriptions": 39
+            },
+            "barcode_benz": {
+                "depletion": 0.5,
+                "inventory": 1,
+                "max_date": "2018-01-30",
+                "min_date": "2018-01-30",
+                "prescriptions": 1,
+                "stock": 0.5,
+                "total_prescriptions": 1
+            },
+            "barcode_fefu": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-06-21",
+                "min_date": "2017-06-21",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_orsl": {
+                "depletion": 0.0375,
+                "inventory": 385,
+                "max_date": "2017-08-24",
+                "min_date": "2017-06-19",
+                "stock": 0.9625,
+                "total_prescriptions": 15
+            },
+            "barcode_par5": {
+                "depletion": 0.0025,
+                "inventory": 3990,
+                "max_date": "2017-08-21",
+                "min_date": "2017-07-25",
+                "stock": 0.9975,
+                "total_prescriptions": 10
+            },
+            "barcode_zinc": {
+                "depletion": 0.004,
+                "inventory": 1992,
+                "max_date": "2017-08-22",
+                "min_date": "2017-07-29",
+                "stock": 0.996,
+                "total_prescriptions": 8
+            },
+            "zinc_kid": {
+                "prescriptions": 1
+            }
+        },
+        "43": {
+            "barcode_albe": {
+                "depletion": 0.02,
+                "inventory": 196,
+                "max_date": "2017-08-20",
+                "min_date": "2017-08-02",
+                "stock": 0.98,
+                "total_prescriptions": 4
+            },
+            "barcode_amox": {
+                "depletion": 0.009333333333333334,
+                "inventory": 2972,
+                "max_date": "2017-08-09",
+                "min_date": "2017-07-25",
+                "stock": 0.9906666666666667,
+                "total_prescriptions": 28
+            },
+            "barcode_magn": {
+                "depletion": 0.022,
+                "inventory": 978,
+                "max_date": "2017-08-09",
+                "min_date": "2017-07-22",
+                "stock": 0.978,
+                "total_prescriptions": 22
+            },
+            "barcode_orsl": {
+                "depletion": 0.355,
+                "inventory": 129,
+                "max_date": "2017-08-28",
+                "min_date": "2017-07-22",
+                "stock": 0.645,
+                "total_prescriptions": 71
+            },
+            "barcode_par1": {
+                "depletion": 0.001,
+                "inventory": 999,
+                "max_date": "2017-07-22",
+                "min_date": "2017-07-22",
+                "stock": 0.999,
+                "total_prescriptions": 1
+            },
+            "barcode_zinc": {
+                "depletion": 0.002,
+                "inventory": 998,
+                "max_date": "2017-08-02",
+                "min_date": "2017-07-22",
+                "stock": 0.998,
+                "total_prescriptions": 2
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "depletion": 0.0025,
+            "max_date": "2017-11-16",
+            "min_date": "2017-06-13",
+            "most_depleted_medicine": "Albendazole 400mg chewable tabs",
+            "str_depletion": "0.2%"
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "depletion": 0.5,
+            "max_date": "2018-01-30",
+            "min_date": "2017-06-19",
+            "most_depleted_medicine": "Benzylbenzoate Lotion 25%",
+            "str_depletion": "50.0%"
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "depletion": 0.355,
+            "max_date": "2017-08-28",
+            "min_date": "2017-07-22",
+            "most_depleted_medicine": "ORS low osm. 20.5g/1L CAR",
+            "str_depletion": "35.5%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-08-13",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-08-13",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-07-18",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-07-15",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-06-13",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-06-13",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-11-16",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-11-16",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-07-25",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-07-25",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-16",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-06-19",
+            "old_str_stock": "99.4%",
+            "stock": 0.9935,
+            "str_stock": "99.4%",
+            "total_prescriptions": 39
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2018-01-30",
+            "medicine_name": "Benzylbenzoate Lotion 25%",
+            "min_date": "2018-01-30",
+            "old_str_stock": "50.0%",
+            "stock": 0.5,
+            "str_stock": "50.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-06-21",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-06-21",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-24",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-06-19",
+            "old_str_stock": "96.2%",
+            "stock": 0.9625,
+            "str_stock": "96.2%",
+            "total_prescriptions": 15
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-21",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-07-25",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-22",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-07-29",
+            "old_str_stock": "99.6%",
+            "stock": 0.996,
+            "str_stock": "99.6%",
+            "total_prescriptions": 8
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-20",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-08-02",
+            "old_str_stock": "98.0%",
+            "stock": 0.98,
+            "str_stock": "98.0%",
+            "total_prescriptions": 4
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-09",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-07-25",
+            "old_str_stock": "99.1%",
+            "stock": 0.9906666666666667,
+            "str_stock": "99.1%",
+            "total_prescriptions": 28
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-09",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-07-22",
+            "old_str_stock": "97.8%",
+            "stock": 0.978,
+            "str_stock": "97.8%",
+            "total_prescriptions": 22
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-28",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-07-22",
+            "old_str_stock": "64.5%",
+            "stock": 0.645,
+            "str_stock": "64.5%",
+            "total_prescriptions": 71
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-07-22",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-07-22",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-02",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-07-22",
+            "old_str_stock": "99.8%",
+            "stock": 0.998,
+            "str_stock": "99.8%",
+            "total_prescriptions": 2
+        }
+    ]
+}
+Location ID: 4:
+{
+    "clinic_data": {
+        "37": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 2999,
+                "max_date": "2017-12-17",
+                "min_date": "2017-12-17",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 1
+            }
+        },
+        "39": {
+            "barcode_amox": {
+                "depletion": 0.0006666666666666666,
+                "inventory": 2998,
+                "max_date": "2017-12-30",
+                "min_date": "2017-12-26",
+                "stock": 0.9993333333333333,
+                "total_prescriptions": 2
+            },
+            "barcode_chlo": {
+                "depletion": 1.0,
+                "inventory": 1,
+                "max_date": "2018-01-02",
+                "min_date": "2018-01-02",
+                "prescriptions": 1,
+                "stock": 0.0,
+                "total_prescriptions": 1
+            },
+            "ors": {
+                "prescriptions": 1
+            },
+            "ors_kid": {
+                "prescriptions": 1
+            },
+            "paracetamol_a": {
+                "prescriptions": 1
+            },
+            "paracetamol_kid_b": {
+                "prescriptions": 3
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "37",
+            "clinic_name": "Horumar HC",
+            "depletion": 0.0003333333333333333,
+            "max_date": "2017-12-17",
+            "min_date": "2017-12-17",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.0%"
+        },
+        {
+            "clinic_id": "39",
+            "clinic_name": "Qudus",
+            "depletion": 1.0,
+            "max_date": "2018-01-27",
+            "min_date": "2017-12-25",
+            "most_depleted_medicine": "Chlorhexidine Gluconate Solution 5%",
+            "str_depletion": "100.0%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "37",
+            "clinic_name": "Horumar HC",
+            "max_date": "2017-12-17",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-12-17",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "39",
+            "clinic_name": "Qudus",
+            "max_date": "2017-12-30",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-12-26",
+            "old_str_stock": "99.9%",
+            "stock": 0.9993333333333333,
+            "str_stock": "99.9%",
+            "total_prescriptions": 2
+        }
+    ]
+}
+Location ID: 5:
+{
+    "clinic_data": {
+        "21": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 5998,
+                "max_date": "2017-03-20",
+                "min_date": "2017-03-17",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 2
+            }
+        },
+        "22": {
+            "barcode_zinc": {
+                "depletion": 0.005,
+                "inventory": 1990,
+                "max_date": "2017-07-13",
+                "min_date": "2017-05-13",
+                "stock": 0.995,
+                "total_prescriptions": 10
+            }
+        },
+        "31": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 5998,
+                "max_date": "2017-05-30",
+                "min_date": "2017-03-16",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 2
+            },
+            "barcode_fefu": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-06-10",
+                "min_date": "2017-06-10",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_par1": {
+                "depletion": 0.001,
+                "inventory": 1998,
+                "max_date": "2017-05-31",
+                "min_date": "2017-05-30",
+                "stock": 0.999,
+                "total_prescriptions": 2
+            },
+            "barcode_par5": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-05-30",
+                "min_date": "2017-05-30",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_zinc": {
+                "depletion": 0.001,
+                "inventory": 1998,
+                "max_date": "2017-05-30",
+                "min_date": "2017-05-30",
+                "stock": 0.999,
+                "total_prescriptions": 2
+            }
+        },
+        "33": {
+            "barcode_amox": {
+                "depletion": 0.0006666666666666666,
+                "inventory": 5996,
+                "max_date": "2017-12-17",
+                "min_date": "2017-03-17",
+                "stock": 0.9993333333333333,
+                "total_prescriptions": 4
+            }
+        },
+        "44": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 2999,
+                "max_date": "2017-07-06",
+                "min_date": "2017-07-06",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 1
+            },
+            "barcode_magn": {
+                "depletion": 0.001,
+                "inventory": 999,
+                "max_date": "2017-06-03",
+                "min_date": "2017-06-03",
+                "stock": 0.999,
+                "total_prescriptions": 1
+            },
+            "barcode_orsl": {
+                "depletion": 0.05,
+                "inventory": 190,
+                "max_date": "2017-06-05",
+                "min_date": "2017-05-31",
+                "stock": 0.95,
+                "total_prescriptions": 10
+            },
+            "barcode_par5": {
+                "depletion": 0.0025,
+                "inventory": 1995,
+                "max_date": "2017-09-07",
+                "min_date": "2017-08-03",
+                "stock": 0.9975,
+                "total_prescriptions": 5
+            },
+            "barcode_zinc": {
+                "depletion": 0.011,
+                "inventory": 989,
+                "max_date": "2017-06-05",
+                "min_date": "2017-05-31",
+                "stock": 0.989,
+                "total_prescriptions": 11
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "21",
+            "clinic_name": "Godob Jiraan",
+            "depletion": 0.0003333333333333333,
+            "max_date": "2017-03-20",
+            "min_date": "2017-03-17",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.0%"
+        },
+        {
+            "clinic_id": "22",
+            "clinic_name": "Yoonbays MCH",
+            "depletion": 0.005,
+            "max_date": "2017-07-13",
+            "min_date": "2017-05-13",
+            "most_depleted_medicine": "Zinc 20mg tablets",
+            "str_depletion": "0.5%"
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "depletion": 0.001,
+            "max_date": "2017-06-10",
+            "min_date": "2017-03-16",
+            "most_depleted_medicine": "Paracetamol 100mg tabs",
+            "str_depletion": "0.1%"
+        },
+        {
+            "clinic_id": "33",
+            "clinic_name": "Kalkal MCH",
+            "depletion": 0.0006666666666666666,
+            "max_date": "2017-12-17",
+            "min_date": "2017-03-17",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.1%"
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "depletion": 0.05,
+            "max_date": "2017-09-07",
+            "min_date": "2017-05-31",
+            "most_depleted_medicine": "ORS low osm. 20.5g/1L CAR",
+            "str_depletion": "5.0%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "21",
+            "clinic_name": "Godob Jiraan",
+            "max_date": "2017-03-20",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-17",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "22",
+            "clinic_name": "Yoonbays MCH",
+            "max_date": "2017-07-13",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-13",
+            "old_str_stock": "99.5%",
+            "stock": 0.995,
+            "str_stock": "99.5%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-30",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-16",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-06-10",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-06-10",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-31",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-05-30",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-30",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-05-30",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-30",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-30",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "33",
+            "clinic_name": "Kalkal MCH",
+            "max_date": "2017-12-17",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-17",
+            "old_str_stock": "99.9%",
+            "stock": 0.9993333333333333,
+            "str_stock": "99.9%",
+            "total_prescriptions": 4
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-07-06",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-07-06",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-06-03",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-06-03",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-06-05",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-05-31",
+            "old_str_stock": "95.0%",
+            "stock": 0.95,
+            "str_stock": "95.0%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-09-07",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-08-03",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 5
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-06-05",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-31",
+            "old_str_stock": "98.9%",
+            "stock": 0.989,
+            "str_stock": "98.9%",
+            "total_prescriptions": 11
+        }
+    ]
+}
+Location ID: 6:
+{
+    "clinic_data": {
+        "25": {},
+        "38": {
+            "barcode_amox": {
+                "depletion": 0.00011111111111111112,
+                "inventory": 8999,
+                "max_date": "2017-04-01",
+                "min_date": "2017-04-01",
+                "stock": 0.9998888888888889,
+                "total_prescriptions": 1
+            }
+        },
+        "40": {
+            "barcode_amox": {
+                "depletion": 0.0005,
+                "inventory": 5997,
+                "max_date": "2018-01-02",
+                "min_date": "2017-12-20",
+                "prescriptions": 1,
+                "stock": 0.9995,
+                "total_prescriptions": 3
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "38",
+            "clinic_name": "Buraan MCH",
+            "depletion": 0.00011111111111111112,
+            "max_date": "2017-04-01",
+            "min_date": "2017-04-01",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.0%"
+        },
+        {
+            "clinic_id": "40",
+            "clinic_name": "Dhahar HC",
+            "depletion": 0.0005,
+            "max_date": "2018-01-02",
+            "min_date": "2017-12-20",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.1%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "38",
+            "clinic_name": "Buraan MCH",
+            "max_date": "2017-04-01",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-04-01",
+            "old_str_stock": "100.0%",
+            "stock": 0.9998888888888889,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "40",
+            "clinic_name": "Dhahar HC",
+            "max_date": "2018-01-02",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-12-20",
+            "old_str_stock": "100.0%",
+            "stock": 0.9995,
+            "str_stock": "100.0%",
+            "total_prescriptions": 3
+        }
+    ]
+}
+Location ID: 7:
+{
+    "clinic_data": {
+        "20": {
+            "barcode_albe": {
+                "depletion": 0.0625,
+                "inventory": 375,
+                "max_date": "2018-01-28",
+                "min_date": "2018-01-06",
+                "prescriptions": 25,
+                "stock": 0.9375,
+                "total_prescriptions": 25
+            },
+            "barcode_amox": {
+                "depletion": 0.033166666666666664,
+                "inventory": 5801,
+                "max_date": "2018-01-29",
+                "min_date": "2017-03-27",
+                "prescriptions": 193,
+                "stock": 0.9668333333333333,
+                "total_prescriptions": 199
+            },
+            "barcode_artem": {
+                "prescriptions": 27
+            },
+            "barcode_benz": {
+                "depletion": 7.5,
+                "inventory": -13,
+                "max_date": "2018-01-28",
+                "min_date": "2018-01-06",
+                "prescriptions": 15,
+                "stock": -6.5,
+                "total_prescriptions": 15
+            },
+            "fe_folic": {
+                "prescriptions": 21
+            },
+            "ibuprofen": {
+                "prescriptions": 52
+            },
+            "magnesium": {
+                "prescriptions": 1
+            },
+            "malaria_test_kit": {
+                "prescriptions": 1
+            },
+            "miconazole": {
+                "prescriptions": 2
+            },
+            "ors": {
+                "prescriptions": 1
+            },
+            "ors_kid": {
+                "prescriptions": 21
+            },
+            "paracetamol_a": {
+                "prescriptions": 193
+            },
+            "paracetamol_kid_b": {
+                "prescriptions": 116
+            },
+            "tetracycline": {
+                "prescriptions": 2
+            },
+            "zinc_kid": {
+                "prescriptions": 30
+            }
+        },
+        "29": {
+            "barcode_albe": {
+                "depletion": 0.0075,
+                "inventory": 397,
+                "max_date": "2018-01-23",
+                "min_date": "2018-01-17",
+                "prescriptions": 3,
+                "stock": 0.9925,
+                "total_prescriptions": 3
+            },
+            "barcode_amox": {
+                "depletion": 0.011666666666666667,
+                "inventory": 5930,
+                "max_date": "2018-01-23",
+                "min_date": "2017-05-14",
+                "prescriptions": 5,
+                "stock": 0.9883333333333333,
+                "total_prescriptions": 70
+            },
+            "barcode_artem": {
+                "prescriptions": 1
+            },
+            "barcode_fefu": {
+                "depletion": 0.00175,
+                "inventory": 3993,
+                "max_date": "2017-05-18",
+                "min_date": "2017-05-15",
+                "stock": 0.99825,
+                "total_prescriptions": 7
+            },
+            "barcode_ibup": {
+                "depletion": 0.0175,
+                "inventory": 393,
+                "max_date": "2017-06-13",
+                "min_date": "2017-05-18",
+                "stock": 0.9825,
+                "total_prescriptions": 7
+            },
+            "barcode_magn": {
+                "depletion": 0.005,
+                "inventory": 1990,
+                "max_date": "2017-05-25",
+                "min_date": "2017-05-15",
+                "stock": 0.995,
+                "total_prescriptions": 10
+            },
+            "barcode_orsl": {
+                "depletion": 0.0025,
+                "inventory": 399,
+                "max_date": "2017-05-27",
+                "min_date": "2017-05-27",
+                "stock": 0.9975,
+                "total_prescriptions": 1
+            },
+            "barcode_par1": {
+                "depletion": 0.0005,
+                "inventory": 1999,
+                "max_date": "2017-05-18",
+                "min_date": "2017-05-18",
+                "stock": 0.9995,
+                "total_prescriptions": 1
+            },
+            "ors": {
+                "prescriptions": 1
+            },
+            "ors_kid": {
+                "prescriptions": 1
+            },
+            "paracetamol_kid_b": {
+                "prescriptions": 3
+            },
+            "zinc_kid": {
+                "prescriptions": 9
+            }
+        },
+        "32": {
+            "barcode_albe": {
+                "depletion": 0.005,
+                "inventory": 398,
+                "max_date": "2017-05-23",
+                "min_date": "2017-05-23",
+                "stock": 0.995,
+                "total_prescriptions": 2
+            },
+            "barcode_amox": {
+                "depletion": 0.015333333333333332,
+                "inventory": 5908,
+                "max_date": "2017-05-28",
+                "min_date": "2017-05-18",
+                "stock": 0.9846666666666667,
+                "total_prescriptions": 92
+            },
+            "barcode_ibup": {
+                "depletion": 0.1875,
+                "inventory": 325,
+                "max_date": "2017-06-15",
+                "min_date": "2017-05-18",
+                "stock": 0.8125,
+                "total_prescriptions": 75
+            },
+            "barcode_magn": {
+                "depletion": 0.003,
+                "inventory": 1994,
+                "max_date": "2017-06-10",
+                "min_date": "2017-05-24",
+                "stock": 0.997,
+                "total_prescriptions": 6
+            },
+            "barcode_par1": {
+                "depletion": 0.0115,
+                "inventory": 1977,
+                "max_date": "2017-06-11",
+                "min_date": "2017-05-18",
+                "stock": 0.9885,
+                "total_prescriptions": 23
+            },
+            "barcode_par5": {
+                "depletion": 0.00075,
+                "inventory": 3997,
+                "max_date": "2017-07-13",
+                "min_date": "2017-07-04",
+                "stock": 0.99925,
+                "total_prescriptions": 3
+            },
+            "barcode_zinc": {
+                "depletion": 0.0005,
+                "inventory": 1999,
+                "max_date": "2017-05-21",
+                "min_date": "2017-05-21",
+                "stock": 0.9995,
+                "total_prescriptions": 1
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "depletion": 7.5,
+            "max_date": "2018-01-30",
+            "min_date": "2017-03-27",
+            "most_depleted_medicine": "Benzylbenzoate Lotion 25%",
+            "str_depletion": "750.0%"
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "depletion": 0.0175,
+            "max_date": "2018-01-30",
+            "min_date": "2017-05-14",
+            "most_depleted_medicine": "Ibuprofen 400mg tabs/PAC-100",
+            "str_depletion": "1.8%"
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "depletion": 0.1875,
+            "max_date": "2017-07-13",
+            "min_date": "2017-05-18",
+            "most_depleted_medicine": "Ibuprofen 400mg tabs/PAC-100",
+            "str_depletion": "18.8%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "max_date": "2018-01-28",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2018-01-06",
+            "old_str_stock": "93.8%",
+            "stock": 0.9375,
+            "str_stock": "93.8%",
+            "total_prescriptions": 25
+        },
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "max_date": "2018-01-29",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-27",
+            "old_str_stock": "96.7%",
+            "stock": 0.9668333333333333,
+            "str_stock": "96.7%",
+            "total_prescriptions": 199
+        },
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "max_date": "2018-01-28",
+            "medicine_name": "Benzylbenzoate Lotion 25%",
+            "min_date": "2018-01-06",
+            "old_str_stock": "-650.0%",
+            "stock": -6.5,
+            "str_stock": "-650.0%",
+            "total_prescriptions": 15
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2018-01-23",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2018-01-17",
+            "old_str_stock": "99.2%",
+            "stock": 0.9925,
+            "str_stock": "99.2%",
+            "total_prescriptions": 3
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2018-01-23",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-05-14",
+            "old_str_stock": "98.8%",
+            "stock": 0.9883333333333333,
+            "str_stock": "98.8%",
+            "total_prescriptions": 70
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-18",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-05-15",
+            "old_str_stock": "99.8%",
+            "stock": 0.99825,
+            "str_stock": "99.8%",
+            "total_prescriptions": 7
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-06-13",
+            "medicine_name": "Ibuprofen 400mg tabs/PAC-100",
+            "min_date": "2017-05-18",
+            "old_str_stock": "98.2%",
+            "stock": 0.9825,
+            "str_stock": "98.2%",
+            "total_prescriptions": 7
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-25",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-05-15",
+            "old_str_stock": "99.5%",
+            "stock": 0.995,
+            "str_stock": "99.5%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-27",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-05-27",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-18",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-05-18",
+            "old_str_stock": "100.0%",
+            "stock": 0.9995,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-05-23",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-05-23",
+            "old_str_stock": "99.5%",
+            "stock": 0.995,
+            "str_stock": "99.5%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-05-28",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-05-18",
+            "old_str_stock": "98.5%",
+            "stock": 0.9846666666666667,
+            "str_stock": "98.5%",
+            "total_prescriptions": 92
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-06-15",
+            "medicine_name": "Ibuprofen 400mg tabs/PAC-100",
+            "min_date": "2017-05-18",
+            "old_str_stock": "81.2%",
+            "stock": 0.8125,
+            "str_stock": "81.2%",
+            "total_prescriptions": 75
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-06-10",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-05-24",
+            "old_str_stock": "99.7%",
+            "stock": 0.997,
+            "str_stock": "99.7%",
+            "total_prescriptions": 6
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-06-11",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-05-18",
+            "old_str_stock": "98.9%",
+            "stock": 0.9885,
+            "str_stock": "98.9%",
+            "total_prescriptions": 23
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-07-13",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-07-04",
+            "old_str_stock": "99.9%",
+            "stock": 0.99925,
+            "str_stock": "99.9%",
+            "total_prescriptions": 3
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-05-21",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-21",
+            "old_str_stock": "100.0%",
+            "stock": 0.9995,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        }
+    ]
+}
+Location ID: 8:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 9:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 10:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 11:
+{
+    "clinic_data": {
+        "42": {
+            "barcode_albe": {
+                "depletion": 0.0025,
+                "inventory": 399,
+                "max_date": "2017-07-25",
+                "min_date": "2017-07-25",
+                "stock": 0.9975,
+                "total_prescriptions": 1
+            },
+            "barcode_amox": {
+                "depletion": 0.0065,
+                "inventory": 5961,
+                "max_date": "2017-08-16",
+                "min_date": "2017-06-19",
+                "stock": 0.9935,
+                "total_prescriptions": 39
+            },
+            "barcode_benz": {
+                "depletion": 0.5,
+                "inventory": 1,
+                "max_date": "2018-01-30",
+                "min_date": "2018-01-30",
+                "prescriptions": 1,
+                "stock": 0.5,
+                "total_prescriptions": 1
+            },
+            "barcode_fefu": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-06-21",
+                "min_date": "2017-06-21",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_orsl": {
+                "depletion": 0.0375,
+                "inventory": 385,
+                "max_date": "2017-08-24",
+                "min_date": "2017-06-19",
+                "stock": 0.9625,
+                "total_prescriptions": 15
+            },
+            "barcode_par5": {
+                "depletion": 0.0025,
+                "inventory": 3990,
+                "max_date": "2017-08-21",
+                "min_date": "2017-07-25",
+                "stock": 0.9975,
+                "total_prescriptions": 10
+            },
+            "barcode_zinc": {
+                "depletion": 0.004,
+                "inventory": 1992,
+                "max_date": "2017-08-22",
+                "min_date": "2017-07-29",
+                "stock": 0.996,
+                "total_prescriptions": 8
+            },
+            "zinc_kid": {
+                "prescriptions": 1
+            }
+        },
+        "43": {
+            "barcode_albe": {
+                "depletion": 0.02,
+                "inventory": 196,
+                "max_date": "2017-08-20",
+                "min_date": "2017-08-02",
+                "stock": 0.98,
+                "total_prescriptions": 4
+            },
+            "barcode_amox": {
+                "depletion": 0.009333333333333334,
+                "inventory": 2972,
+                "max_date": "2017-08-09",
+                "min_date": "2017-07-25",
+                "stock": 0.9906666666666667,
+                "total_prescriptions": 28
+            },
+            "barcode_magn": {
+                "depletion": 0.022,
+                "inventory": 978,
+                "max_date": "2017-08-09",
+                "min_date": "2017-07-22",
+                "stock": 0.978,
+                "total_prescriptions": 22
+            },
+            "barcode_orsl": {
+                "depletion": 0.355,
+                "inventory": 129,
+                "max_date": "2017-08-28",
+                "min_date": "2017-07-22",
+                "stock": 0.645,
+                "total_prescriptions": 71
+            },
+            "barcode_par1": {
+                "depletion": 0.001,
+                "inventory": 999,
+                "max_date": "2017-07-22",
+                "min_date": "2017-07-22",
+                "stock": 0.999,
+                "total_prescriptions": 1
+            },
+            "barcode_zinc": {
+                "depletion": 0.002,
+                "inventory": 998,
+                "max_date": "2017-08-02",
+                "min_date": "2017-07-22",
+                "stock": 0.998,
+                "total_prescriptions": 2
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "depletion": 0.5,
+            "max_date": "2018-01-30",
+            "min_date": "2017-06-19",
+            "most_depleted_medicine": "Benzylbenzoate Lotion 25%",
+            "str_depletion": "50.0%"
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "depletion": 0.355,
+            "max_date": "2017-08-28",
+            "min_date": "2017-07-22",
+            "most_depleted_medicine": "ORS low osm. 20.5g/1L CAR",
+            "str_depletion": "35.5%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-07-25",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-07-25",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-16",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-06-19",
+            "old_str_stock": "99.4%",
+            "stock": 0.9935,
+            "str_stock": "99.4%",
+            "total_prescriptions": 39
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2018-01-30",
+            "medicine_name": "Benzylbenzoate Lotion 25%",
+            "min_date": "2018-01-30",
+            "old_str_stock": "50.0%",
+            "stock": 0.5,
+            "str_stock": "50.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-06-21",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-06-21",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-24",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-06-19",
+            "old_str_stock": "96.2%",
+            "stock": 0.9625,
+            "str_stock": "96.2%",
+            "total_prescriptions": 15
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-21",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-07-25",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-22",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-07-29",
+            "old_str_stock": "99.6%",
+            "stock": 0.996,
+            "str_stock": "99.6%",
+            "total_prescriptions": 8
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-20",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-08-02",
+            "old_str_stock": "98.0%",
+            "stock": 0.98,
+            "str_stock": "98.0%",
+            "total_prescriptions": 4
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-09",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-07-25",
+            "old_str_stock": "99.1%",
+            "stock": 0.9906666666666667,
+            "str_stock": "99.1%",
+            "total_prescriptions": 28
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-09",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-07-22",
+            "old_str_stock": "97.8%",
+            "stock": 0.978,
+            "str_stock": "97.8%",
+            "total_prescriptions": 22
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-28",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-07-22",
+            "old_str_stock": "64.5%",
+            "stock": 0.645,
+            "str_stock": "64.5%",
+            "total_prescriptions": 71
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-07-22",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-07-22",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-02",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-07-22",
+            "old_str_stock": "99.8%",
+            "stock": 0.998,
+            "str_stock": "99.8%",
+            "total_prescriptions": 2
+        }
+    ]
+}
+Location ID: 12:
+{
+    "clinic_data": {
+        "35": {
+            "barcode_albe": {
+                "depletion": 0.0025,
+                "inventory": 399,
+                "max_date": "2017-08-13",
+                "min_date": "2017-08-13",
+                "stock": 0.9975,
+                "total_prescriptions": 1
+            },
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 5998,
+                "max_date": "2017-07-18",
+                "min_date": "2017-07-15",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 2
+            },
+            "barcode_fefu": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-06-13",
+                "min_date": "2017-06-13",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_par5": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-11-16",
+                "min_date": "2017-11-16",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "depletion": 0.0025,
+            "max_date": "2017-11-16",
+            "min_date": "2017-06-13",
+            "most_depleted_medicine": "Albendazole 400mg chewable tabs",
+            "str_depletion": "0.2%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-08-13",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-08-13",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-07-18",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-07-15",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-06-13",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-06-13",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-11-16",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-11-16",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        }
+    ]
+}
+Location ID: 13:
+{
+    "clinic_data": {
+        "39": {
+            "barcode_amox": {
+                "depletion": 0.0006666666666666666,
+                "inventory": 2998,
+                "max_date": "2017-12-30",
+                "min_date": "2017-12-26",
+                "stock": 0.9993333333333333,
+                "total_prescriptions": 2
+            },
+            "barcode_chlo": {
+                "depletion": 1.0,
+                "inventory": 1,
+                "max_date": "2018-01-02",
+                "min_date": "2018-01-02",
+                "prescriptions": 1,
+                "stock": 0.0,
+                "total_prescriptions": 1
+            },
+            "ors": {
+                "prescriptions": 1
+            },
+            "ors_kid": {
+                "prescriptions": 1
+            },
+            "paracetamol_a": {
+                "prescriptions": 1
+            },
+            "paracetamol_kid_b": {
+                "prescriptions": 3
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "39",
+            "clinic_name": "Qudus",
+            "depletion": 1.0,
+            "max_date": "2018-01-27",
+            "min_date": "2017-12-25",
+            "most_depleted_medicine": "Chlorhexidine Gluconate Solution 5%",
+            "str_depletion": "100.0%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "39",
+            "clinic_name": "Qudus",
+            "max_date": "2017-12-30",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-12-26",
+            "old_str_stock": "99.9%",
+            "stock": 0.9993333333333333,
+            "str_stock": "99.9%",
+            "total_prescriptions": 2
+        }
+    ]
+}
+Location ID: 14:
+{
+    "clinic_data": {
+        "37": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 2999,
+                "max_date": "2017-12-17",
+                "min_date": "2017-12-17",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 1
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "37",
+            "clinic_name": "Horumar HC",
+            "depletion": 0.0003333333333333333,
+            "max_date": "2017-12-17",
+            "min_date": "2017-12-17",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.0%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "37",
+            "clinic_name": "Horumar HC",
+            "max_date": "2017-12-17",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-12-17",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        }
+    ]
+}
+Location ID: 15:
+{
+    "clinic_data": {
+        "21": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 5998,
+                "max_date": "2017-03-20",
+                "min_date": "2017-03-17",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 2
+            }
+        },
+        "33": {
+            "barcode_amox": {
+                "depletion": 0.0006666666666666666,
+                "inventory": 5996,
+                "max_date": "2017-12-17",
+                "min_date": "2017-03-17",
+                "stock": 0.9993333333333333,
+                "total_prescriptions": 4
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "21",
+            "clinic_name": "Godob Jiraan",
+            "depletion": 0.0003333333333333333,
+            "max_date": "2017-03-20",
+            "min_date": "2017-03-17",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.0%"
+        },
+        {
+            "clinic_id": "33",
+            "clinic_name": "Kalkal MCH",
+            "depletion": 0.0006666666666666666,
+            "max_date": "2017-12-17",
+            "min_date": "2017-03-17",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.1%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "21",
+            "clinic_name": "Godob Jiraan",
+            "max_date": "2017-03-20",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-17",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "33",
+            "clinic_name": "Kalkal MCH",
+            "max_date": "2017-12-17",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-17",
+            "old_str_stock": "99.9%",
+            "stock": 0.9993333333333333,
+            "str_stock": "99.9%",
+            "total_prescriptions": 4
+        }
+    ]
+}
+Location ID: 16:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 17:
+{
+    "clinic_data": {
+        "22": {
+            "barcode_zinc": {
+                "depletion": 0.005,
+                "inventory": 1990,
+                "max_date": "2017-07-13",
+                "min_date": "2017-05-13",
+                "stock": 0.995,
+                "total_prescriptions": 10
+            }
+        },
+        "31": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 5998,
+                "max_date": "2017-05-30",
+                "min_date": "2017-03-16",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 2
+            },
+            "barcode_fefu": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-06-10",
+                "min_date": "2017-06-10",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_par1": {
+                "depletion": 0.001,
+                "inventory": 1998,
+                "max_date": "2017-05-31",
+                "min_date": "2017-05-30",
+                "stock": 0.999,
+                "total_prescriptions": 2
+            },
+            "barcode_par5": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-05-30",
+                "min_date": "2017-05-30",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_zinc": {
+                "depletion": 0.001,
+                "inventory": 1998,
+                "max_date": "2017-05-30",
+                "min_date": "2017-05-30",
+                "stock": 0.999,
+                "total_prescriptions": 2
+            }
+        },
+        "44": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 2999,
+                "max_date": "2017-07-06",
+                "min_date": "2017-07-06",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 1
+            },
+            "barcode_magn": {
+                "depletion": 0.001,
+                "inventory": 999,
+                "max_date": "2017-06-03",
+                "min_date": "2017-06-03",
+                "stock": 0.999,
+                "total_prescriptions": 1
+            },
+            "barcode_orsl": {
+                "depletion": 0.05,
+                "inventory": 190,
+                "max_date": "2017-06-05",
+                "min_date": "2017-05-31",
+                "stock": 0.95,
+                "total_prescriptions": 10
+            },
+            "barcode_par5": {
+                "depletion": 0.0025,
+                "inventory": 1995,
+                "max_date": "2017-09-07",
+                "min_date": "2017-08-03",
+                "stock": 0.9975,
+                "total_prescriptions": 5
+            },
+            "barcode_zinc": {
+                "depletion": 0.011,
+                "inventory": 989,
+                "max_date": "2017-06-05",
+                "min_date": "2017-05-31",
+                "stock": 0.989,
+                "total_prescriptions": 11
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "22",
+            "clinic_name": "Yoonbays MCH",
+            "depletion": 0.005,
+            "max_date": "2017-07-13",
+            "min_date": "2017-05-13",
+            "most_depleted_medicine": "Zinc 20mg tablets",
+            "str_depletion": "0.5%"
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "depletion": 0.001,
+            "max_date": "2017-06-10",
+            "min_date": "2017-03-16",
+            "most_depleted_medicine": "Paracetamol 100mg tabs",
+            "str_depletion": "0.1%"
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "depletion": 0.05,
+            "max_date": "2017-09-07",
+            "min_date": "2017-05-31",
+            "most_depleted_medicine": "ORS low osm. 20.5g/1L CAR",
+            "str_depletion": "5.0%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "22",
+            "clinic_name": "Yoonbays MCH",
+            "max_date": "2017-07-13",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-13",
+            "old_str_stock": "99.5%",
+            "stock": 0.995,
+            "str_stock": "99.5%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-30",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-16",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-06-10",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-06-10",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-31",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-05-30",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-30",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-05-30",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-30",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-30",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-07-06",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-07-06",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-06-03",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-06-03",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-06-05",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-05-31",
+            "old_str_stock": "95.0%",
+            "stock": 0.95,
+            "str_stock": "95.0%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-09-07",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-08-03",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 5
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-06-05",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-31",
+            "old_str_stock": "98.9%",
+            "stock": 0.989,
+            "str_stock": "98.9%",
+            "total_prescriptions": 11
+        }
+    ]
+}
+Location ID: 18:
+{
+    "clinic_data": {
+        "25": {}
+    },
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 19:
+{
+    "clinic_data": {
+        "38": {
+            "barcode_amox": {
+                "depletion": 0.00011111111111111112,
+                "inventory": 8999,
+                "max_date": "2017-04-01",
+                "min_date": "2017-04-01",
+                "stock": 0.9998888888888889,
+                "total_prescriptions": 1
+            }
+        },
+        "40": {
+            "barcode_amox": {
+                "depletion": 0.0005,
+                "inventory": 5997,
+                "max_date": "2018-01-02",
+                "min_date": "2017-12-20",
+                "prescriptions": 1,
+                "stock": 0.9995,
+                "total_prescriptions": 3
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "38",
+            "clinic_name": "Buraan MCH",
+            "depletion": 0.00011111111111111112,
+            "max_date": "2017-04-01",
+            "min_date": "2017-04-01",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.0%"
+        },
+        {
+            "clinic_id": "40",
+            "clinic_name": "Dhahar HC",
+            "depletion": 0.0005,
+            "max_date": "2018-01-02",
+            "min_date": "2017-12-20",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.1%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "38",
+            "clinic_name": "Buraan MCH",
+            "max_date": "2017-04-01",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-04-01",
+            "old_str_stock": "100.0%",
+            "stock": 0.9998888888888889,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "40",
+            "clinic_name": "Dhahar HC",
+            "max_date": "2018-01-02",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-12-20",
+            "old_str_stock": "100.0%",
+            "stock": 0.9995,
+            "str_stock": "100.0%",
+            "total_prescriptions": 3
+        }
+    ]
+}
+Location ID: 20:
+{
+    "clinic_data": {
+        "20": {
+            "barcode_albe": {
+                "depletion": 0.0625,
+                "inventory": 375,
+                "max_date": "2018-01-28",
+                "min_date": "2018-01-06",
+                "prescriptions": 25,
+                "stock": 0.9375,
+                "total_prescriptions": 25
+            },
+            "barcode_amox": {
+                "depletion": 0.033166666666666664,
+                "inventory": 5801,
+                "max_date": "2018-01-29",
+                "min_date": "2017-03-27",
+                "prescriptions": 193,
+                "stock": 0.9668333333333333,
+                "total_prescriptions": 199
+            },
+            "barcode_artem": {
+                "prescriptions": 27
+            },
+            "barcode_benz": {
+                "depletion": 7.5,
+                "inventory": -13,
+                "max_date": "2018-01-28",
+                "min_date": "2018-01-06",
+                "prescriptions": 15,
+                "stock": -6.5,
+                "total_prescriptions": 15
+            },
+            "fe_folic": {
+                "prescriptions": 21
+            },
+            "ibuprofen": {
+                "prescriptions": 52
+            },
+            "magnesium": {
+                "prescriptions": 1
+            },
+            "malaria_test_kit": {
+                "prescriptions": 1
+            },
+            "miconazole": {
+                "prescriptions": 2
+            },
+            "ors": {
+                "prescriptions": 1
+            },
+            "ors_kid": {
+                "prescriptions": 21
+            },
+            "paracetamol_a": {
+                "prescriptions": 193
+            },
+            "paracetamol_kid_b": {
+                "prescriptions": 116
+            },
+            "tetracycline": {
+                "prescriptions": 2
+            },
+            "zinc_kid": {
+                "prescriptions": 30
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "depletion": 7.5,
+            "max_date": "2018-01-30",
+            "min_date": "2017-03-27",
+            "most_depleted_medicine": "Benzylbenzoate Lotion 25%",
+            "str_depletion": "750.0%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "max_date": "2018-01-28",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2018-01-06",
+            "old_str_stock": "93.8%",
+            "stock": 0.9375,
+            "str_stock": "93.8%",
+            "total_prescriptions": 25
+        },
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "max_date": "2018-01-29",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-27",
+            "old_str_stock": "96.7%",
+            "stock": 0.9668333333333333,
+            "str_stock": "96.7%",
+            "total_prescriptions": 199
+        },
+        {
+            "clinic_id": "20",
+            "clinic_name": "Beeldaaje HC",
+            "max_date": "2018-01-28",
+            "medicine_name": "Benzylbenzoate Lotion 25%",
+            "min_date": "2018-01-06",
+            "old_str_stock": "-650.0%",
+            "stock": -6.5,
+            "str_stock": "-650.0%",
+            "total_prescriptions": 15
+        }
+    ]
+}
+Location ID: 21:
+{
+    "clinic_data": {
+        "21": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 5998,
+                "max_date": "2017-03-20",
+                "min_date": "2017-03-17",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 2
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "21",
+            "clinic_name": "Godob Jiraan",
+            "depletion": 0.0003333333333333333,
+            "max_date": "2017-03-20",
+            "min_date": "2017-03-17",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.0%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "21",
+            "clinic_name": "Godob Jiraan",
+            "max_date": "2017-03-20",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-17",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 2
+        }
+    ]
+}
+Location ID: 22:
+{
+    "clinic_data": {
+        "22": {
+            "barcode_zinc": {
+                "depletion": 0.005,
+                "inventory": 1990,
+                "max_date": "2017-07-13",
+                "min_date": "2017-05-13",
+                "stock": 0.995,
+                "total_prescriptions": 10
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "22",
+            "clinic_name": "Yoonbays MCH",
+            "depletion": 0.005,
+            "max_date": "2017-07-13",
+            "min_date": "2017-05-13",
+            "most_depleted_medicine": "Zinc 20mg tablets",
+            "str_depletion": "0.5%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "22",
+            "clinic_name": "Yoonbays MCH",
+            "max_date": "2017-07-13",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-13",
+            "old_str_stock": "99.5%",
+            "stock": 0.995,
+            "str_stock": "99.5%",
+            "total_prescriptions": 10
+        }
+    ]
+}
+Location ID: 23:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 24:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 25:
+{
+    "clinic_data": {
+        "25": {}
+    },
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 26:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 27:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 28:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 29:
+{
+    "clinic_data": {
+        "29": {
+            "barcode_albe": {
+                "depletion": 0.0075,
+                "inventory": 397,
+                "max_date": "2018-01-23",
+                "min_date": "2018-01-17",
+                "prescriptions": 3,
+                "stock": 0.9925,
+                "total_prescriptions": 3
+            },
+            "barcode_amox": {
+                "depletion": 0.011666666666666667,
+                "inventory": 5930,
+                "max_date": "2018-01-23",
+                "min_date": "2017-05-14",
+                "prescriptions": 5,
+                "stock": 0.9883333333333333,
+                "total_prescriptions": 70
+            },
+            "barcode_artem": {
+                "prescriptions": 1
+            },
+            "barcode_fefu": {
+                "depletion": 0.00175,
+                "inventory": 3993,
+                "max_date": "2017-05-18",
+                "min_date": "2017-05-15",
+                "stock": 0.99825,
+                "total_prescriptions": 7
+            },
+            "barcode_ibup": {
+                "depletion": 0.0175,
+                "inventory": 393,
+                "max_date": "2017-06-13",
+                "min_date": "2017-05-18",
+                "stock": 0.9825,
+                "total_prescriptions": 7
+            },
+            "barcode_magn": {
+                "depletion": 0.005,
+                "inventory": 1990,
+                "max_date": "2017-05-25",
+                "min_date": "2017-05-15",
+                "stock": 0.995,
+                "total_prescriptions": 10
+            },
+            "barcode_orsl": {
+                "depletion": 0.0025,
+                "inventory": 399,
+                "max_date": "2017-05-27",
+                "min_date": "2017-05-27",
+                "stock": 0.9975,
+                "total_prescriptions": 1
+            },
+            "barcode_par1": {
+                "depletion": 0.0005,
+                "inventory": 1999,
+                "max_date": "2017-05-18",
+                "min_date": "2017-05-18",
+                "stock": 0.9995,
+                "total_prescriptions": 1
+            },
+            "ors": {
+                "prescriptions": 1
+            },
+            "ors_kid": {
+                "prescriptions": 1
+            },
+            "paracetamol_kid_b": {
+                "prescriptions": 3
+            },
+            "zinc_kid": {
+                "prescriptions": 9
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "depletion": 0.0175,
+            "max_date": "2018-01-30",
+            "min_date": "2017-05-14",
+            "most_depleted_medicine": "Ibuprofen 400mg tabs/PAC-100",
+            "str_depletion": "1.8%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2018-01-23",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2018-01-17",
+            "old_str_stock": "99.2%",
+            "stock": 0.9925,
+            "str_stock": "99.2%",
+            "total_prescriptions": 3
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2018-01-23",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-05-14",
+            "old_str_stock": "98.8%",
+            "stock": 0.9883333333333333,
+            "str_stock": "98.8%",
+            "total_prescriptions": 70
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-18",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-05-15",
+            "old_str_stock": "99.8%",
+            "stock": 0.99825,
+            "str_stock": "99.8%",
+            "total_prescriptions": 7
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-06-13",
+            "medicine_name": "Ibuprofen 400mg tabs/PAC-100",
+            "min_date": "2017-05-18",
+            "old_str_stock": "98.2%",
+            "stock": 0.9825,
+            "str_stock": "98.2%",
+            "total_prescriptions": 7
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-25",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-05-15",
+            "old_str_stock": "99.5%",
+            "stock": 0.995,
+            "str_stock": "99.5%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-27",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-05-27",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "29",
+            "clinic_name": "Boqolka 100 Bush HC",
+            "max_date": "2017-05-18",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-05-18",
+            "old_str_stock": "100.0%",
+            "stock": 0.9995,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        }
+    ]
+}
+Location ID: 30:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 31:
+{
+    "clinic_data": {
+        "31": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 5998,
+                "max_date": "2017-05-30",
+                "min_date": "2017-03-16",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 2
+            },
+            "barcode_fefu": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-06-10",
+                "min_date": "2017-06-10",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_par1": {
+                "depletion": 0.001,
+                "inventory": 1998,
+                "max_date": "2017-05-31",
+                "min_date": "2017-05-30",
+                "stock": 0.999,
+                "total_prescriptions": 2
+            },
+            "barcode_par5": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-05-30",
+                "min_date": "2017-05-30",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_zinc": {
+                "depletion": 0.001,
+                "inventory": 1998,
+                "max_date": "2017-05-30",
+                "min_date": "2017-05-30",
+                "stock": 0.999,
+                "total_prescriptions": 2
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "depletion": 0.001,
+            "max_date": "2017-06-10",
+            "min_date": "2017-03-16",
+            "most_depleted_medicine": "Paracetamol 100mg tabs",
+            "str_depletion": "0.1%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-30",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-16",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-06-10",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-06-10",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-31",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-05-30",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-30",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-05-30",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "31",
+            "clinic_name": "Xaar Xaar MCH",
+            "max_date": "2017-05-30",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-30",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 2
+        }
+    ]
+}
+Location ID: 32:
+{
+    "clinic_data": {
+        "32": {
+            "barcode_albe": {
+                "depletion": 0.005,
+                "inventory": 398,
+                "max_date": "2017-05-23",
+                "min_date": "2017-05-23",
+                "stock": 0.995,
+                "total_prescriptions": 2
+            },
+            "barcode_amox": {
+                "depletion": 0.015333333333333332,
+                "inventory": 5908,
+                "max_date": "2017-05-28",
+                "min_date": "2017-05-18",
+                "stock": 0.9846666666666667,
+                "total_prescriptions": 92
+            },
+            "barcode_ibup": {
+                "depletion": 0.1875,
+                "inventory": 325,
+                "max_date": "2017-06-15",
+                "min_date": "2017-05-18",
+                "stock": 0.8125,
+                "total_prescriptions": 75
+            },
+            "barcode_magn": {
+                "depletion": 0.003,
+                "inventory": 1994,
+                "max_date": "2017-06-10",
+                "min_date": "2017-05-24",
+                "stock": 0.997,
+                "total_prescriptions": 6
+            },
+            "barcode_par1": {
+                "depletion": 0.0115,
+                "inventory": 1977,
+                "max_date": "2017-06-11",
+                "min_date": "2017-05-18",
+                "stock": 0.9885,
+                "total_prescriptions": 23
+            },
+            "barcode_par5": {
+                "depletion": 0.00075,
+                "inventory": 3997,
+                "max_date": "2017-07-13",
+                "min_date": "2017-07-04",
+                "stock": 0.99925,
+                "total_prescriptions": 3
+            },
+            "barcode_zinc": {
+                "depletion": 0.0005,
+                "inventory": 1999,
+                "max_date": "2017-05-21",
+                "min_date": "2017-05-21",
+                "stock": 0.9995,
+                "total_prescriptions": 1
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "depletion": 0.1875,
+            "max_date": "2017-07-13",
+            "min_date": "2017-05-18",
+            "most_depleted_medicine": "Ibuprofen 400mg tabs/PAC-100",
+            "str_depletion": "18.8%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-05-23",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-05-23",
+            "old_str_stock": "99.5%",
+            "stock": 0.995,
+            "str_stock": "99.5%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-05-28",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-05-18",
+            "old_str_stock": "98.5%",
+            "stock": 0.9846666666666667,
+            "str_stock": "98.5%",
+            "total_prescriptions": 92
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-06-15",
+            "medicine_name": "Ibuprofen 400mg tabs/PAC-100",
+            "min_date": "2017-05-18",
+            "old_str_stock": "81.2%",
+            "stock": 0.8125,
+            "str_stock": "81.2%",
+            "total_prescriptions": 75
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-06-10",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-05-24",
+            "old_str_stock": "99.7%",
+            "stock": 0.997,
+            "str_stock": "99.7%",
+            "total_prescriptions": 6
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-06-11",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-05-18",
+            "old_str_stock": "98.9%",
+            "stock": 0.9885,
+            "str_stock": "98.9%",
+            "total_prescriptions": 23
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-07-13",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-07-04",
+            "old_str_stock": "99.9%",
+            "stock": 0.99925,
+            "str_stock": "99.9%",
+            "total_prescriptions": 3
+        },
+        {
+            "clinic_id": "32",
+            "clinic_name": "Isniino HC",
+            "max_date": "2017-05-21",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-21",
+            "old_str_stock": "100.0%",
+            "stock": 0.9995,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        }
+    ]
+}
+Location ID: 33:
+{
+    "clinic_data": {
+        "33": {
+            "barcode_amox": {
+                "depletion": 0.0006666666666666666,
+                "inventory": 5996,
+                "max_date": "2017-12-17",
+                "min_date": "2017-03-17",
+                "stock": 0.9993333333333333,
+                "total_prescriptions": 4
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "33",
+            "clinic_name": "Kalkal MCH",
+            "depletion": 0.0006666666666666666,
+            "max_date": "2017-12-17",
+            "min_date": "2017-03-17",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.1%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "33",
+            "clinic_name": "Kalkal MCH",
+            "max_date": "2017-12-17",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-03-17",
+            "old_str_stock": "99.9%",
+            "stock": 0.9993333333333333,
+            "str_stock": "99.9%",
+            "total_prescriptions": 4
+        }
+    ]
+}
+Location ID: 34:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 35:
+{
+    "clinic_data": {
+        "35": {
+            "barcode_albe": {
+                "depletion": 0.0025,
+                "inventory": 399,
+                "max_date": "2017-08-13",
+                "min_date": "2017-08-13",
+                "stock": 0.9975,
+                "total_prescriptions": 1
+            },
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 5998,
+                "max_date": "2017-07-18",
+                "min_date": "2017-07-15",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 2
+            },
+            "barcode_fefu": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-06-13",
+                "min_date": "2017-06-13",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_par5": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-11-16",
+                "min_date": "2017-11-16",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "depletion": 0.0025,
+            "max_date": "2017-11-16",
+            "min_date": "2017-06-13",
+            "most_depleted_medicine": "Albendazole 400mg chewable tabs",
+            "str_depletion": "0.2%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-08-13",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-08-13",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-07-18",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-07-15",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 2
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-06-13",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-06-13",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "35",
+            "clinic_name": "Bargal HC",
+            "max_date": "2017-11-16",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-11-16",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        }
+    ]
+}
+Location ID: 36:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 37:
+{
+    "clinic_data": {
+        "37": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 2999,
+                "max_date": "2017-12-17",
+                "min_date": "2017-12-17",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 1
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "37",
+            "clinic_name": "Horumar HC",
+            "depletion": 0.0003333333333333333,
+            "max_date": "2017-12-17",
+            "min_date": "2017-12-17",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.0%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "37",
+            "clinic_name": "Horumar HC",
+            "max_date": "2017-12-17",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-12-17",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        }
+    ]
+}
+Location ID: 38:
+{
+    "clinic_data": {
+        "38": {
+            "barcode_amox": {
+                "depletion": 0.00011111111111111112,
+                "inventory": 8999,
+                "max_date": "2017-04-01",
+                "min_date": "2017-04-01",
+                "stock": 0.9998888888888889,
+                "total_prescriptions": 1
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "38",
+            "clinic_name": "Buraan MCH",
+            "depletion": 0.00011111111111111112,
+            "max_date": "2017-04-01",
+            "min_date": "2017-04-01",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.0%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "38",
+            "clinic_name": "Buraan MCH",
+            "max_date": "2017-04-01",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-04-01",
+            "old_str_stock": "100.0%",
+            "stock": 0.9998888888888889,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        }
+    ]
+}
+Location ID: 39:
+{
+    "clinic_data": {
+        "39": {
+            "barcode_amox": {
+                "depletion": 0.0006666666666666666,
+                "inventory": 2998,
+                "max_date": "2017-12-30",
+                "min_date": "2017-12-26",
+                "stock": 0.9993333333333333,
+                "total_prescriptions": 2
+            },
+            "barcode_chlo": {
+                "depletion": 1.0,
+                "inventory": 1,
+                "max_date": "2018-01-02",
+                "min_date": "2018-01-02",
+                "prescriptions": 1,
+                "stock": 0.0,
+                "total_prescriptions": 1
+            },
+            "ors": {
+                "prescriptions": 1
+            },
+            "ors_kid": {
+                "prescriptions": 1
+            },
+            "paracetamol_a": {
+                "prescriptions": 1
+            },
+            "paracetamol_kid_b": {
+                "prescriptions": 3
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "39",
+            "clinic_name": "Qudus",
+            "depletion": 1.0,
+            "max_date": "2018-01-27",
+            "min_date": "2017-12-25",
+            "most_depleted_medicine": "Chlorhexidine Gluconate Solution 5%",
+            "str_depletion": "100.0%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "39",
+            "clinic_name": "Qudus",
+            "max_date": "2017-12-30",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-12-26",
+            "old_str_stock": "99.9%",
+            "stock": 0.9993333333333333,
+            "str_stock": "99.9%",
+            "total_prescriptions": 2
+        }
+    ]
+}
+Location ID: 40:
+{
+    "clinic_data": {
+        "40": {
+            "barcode_amox": {
+                "depletion": 0.0005,
+                "inventory": 5997,
+                "max_date": "2018-01-02",
+                "min_date": "2017-12-20",
+                "prescriptions": 1,
+                "stock": 0.9995,
+                "total_prescriptions": 3
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "40",
+            "clinic_name": "Dhahar HC",
+            "depletion": 0.0005,
+            "max_date": "2018-01-02",
+            "min_date": "2017-12-20",
+            "most_depleted_medicine": "Amoxicillin 250mg disp.tab",
+            "str_depletion": "0.1%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "40",
+            "clinic_name": "Dhahar HC",
+            "max_date": "2018-01-02",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-12-20",
+            "old_str_stock": "100.0%",
+            "stock": 0.9995,
+            "str_stock": "100.0%",
+            "total_prescriptions": 3
+        }
+    ]
+}
+Location ID: 41:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 42:
+{
+    "clinic_data": {
+        "42": {
+            "barcode_albe": {
+                "depletion": 0.0025,
+                "inventory": 399,
+                "max_date": "2017-07-25",
+                "min_date": "2017-07-25",
+                "stock": 0.9975,
+                "total_prescriptions": 1
+            },
+            "barcode_amox": {
+                "depletion": 0.0065,
+                "inventory": 5961,
+                "max_date": "2017-08-16",
+                "min_date": "2017-06-19",
+                "stock": 0.9935,
+                "total_prescriptions": 39
+            },
+            "barcode_benz": {
+                "depletion": 0.5,
+                "inventory": 1,
+                "max_date": "2018-01-30",
+                "min_date": "2018-01-30",
+                "prescriptions": 1,
+                "stock": 0.5,
+                "total_prescriptions": 1
+            },
+            "barcode_fefu": {
+                "depletion": 0.00025,
+                "inventory": 3999,
+                "max_date": "2017-06-21",
+                "min_date": "2017-06-21",
+                "stock": 0.99975,
+                "total_prescriptions": 1
+            },
+            "barcode_orsl": {
+                "depletion": 0.0375,
+                "inventory": 385,
+                "max_date": "2017-08-24",
+                "min_date": "2017-06-19",
+                "stock": 0.9625,
+                "total_prescriptions": 15
+            },
+            "barcode_par5": {
+                "depletion": 0.0025,
+                "inventory": 3990,
+                "max_date": "2017-08-21",
+                "min_date": "2017-07-25",
+                "stock": 0.9975,
+                "total_prescriptions": 10
+            },
+            "barcode_zinc": {
+                "depletion": 0.004,
+                "inventory": 1992,
+                "max_date": "2017-08-22",
+                "min_date": "2017-07-29",
+                "stock": 0.996,
+                "total_prescriptions": 8
+            },
+            "zinc_kid": {
+                "prescriptions": 1
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "depletion": 0.5,
+            "max_date": "2018-01-30",
+            "min_date": "2017-06-19",
+            "most_depleted_medicine": "Benzylbenzoate Lotion 25%",
+            "str_depletion": "50.0%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-07-25",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-07-25",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-16",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-06-19",
+            "old_str_stock": "99.4%",
+            "stock": 0.9935,
+            "str_stock": "99.4%",
+            "total_prescriptions": 39
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2018-01-30",
+            "medicine_name": "Benzylbenzoate Lotion 25%",
+            "min_date": "2018-01-30",
+            "old_str_stock": "50.0%",
+            "stock": 0.5,
+            "str_stock": "50.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-06-21",
+            "medicine_name": "Fe(as fum.)+folic 60+0.4mg tab",
+            "min_date": "2017-06-21",
+            "old_str_stock": "100.0%",
+            "stock": 0.99975,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-24",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-06-19",
+            "old_str_stock": "96.2%",
+            "stock": 0.9625,
+            "str_stock": "96.2%",
+            "total_prescriptions": 15
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-21",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-07-25",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "42",
+            "clinic_name": "Habbo HC",
+            "max_date": "2017-08-22",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-07-29",
+            "old_str_stock": "99.6%",
+            "stock": 0.996,
+            "str_stock": "99.6%",
+            "total_prescriptions": 8
+        }
+    ]
+}
+Location ID: 43:
+{
+    "clinic_data": {
+        "43": {
+            "barcode_albe": {
+                "depletion": 0.02,
+                "inventory": 196,
+                "max_date": "2017-08-20",
+                "min_date": "2017-08-02",
+                "stock": 0.98,
+                "total_prescriptions": 4
+            },
+            "barcode_amox": {
+                "depletion": 0.009333333333333334,
+                "inventory": 2972,
+                "max_date": "2017-08-09",
+                "min_date": "2017-07-25",
+                "stock": 0.9906666666666667,
+                "total_prescriptions": 28
+            },
+            "barcode_magn": {
+                "depletion": 0.022,
+                "inventory": 978,
+                "max_date": "2017-08-09",
+                "min_date": "2017-07-22",
+                "stock": 0.978,
+                "total_prescriptions": 22
+            },
+            "barcode_orsl": {
+                "depletion": 0.355,
+                "inventory": 129,
+                "max_date": "2017-08-28",
+                "min_date": "2017-07-22",
+                "stock": 0.645,
+                "total_prescriptions": 71
+            },
+            "barcode_par1": {
+                "depletion": 0.001,
+                "inventory": 999,
+                "max_date": "2017-07-22",
+                "min_date": "2017-07-22",
+                "stock": 0.999,
+                "total_prescriptions": 1
+            },
+            "barcode_zinc": {
+                "depletion": 0.002,
+                "inventory": 998,
+                "max_date": "2017-08-02",
+                "min_date": "2017-07-22",
+                "stock": 0.998,
+                "total_prescriptions": 2
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "depletion": 0.355,
+            "max_date": "2017-08-28",
+            "min_date": "2017-07-22",
+            "most_depleted_medicine": "ORS low osm. 20.5g/1L CAR",
+            "str_depletion": "35.5%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-20",
+            "medicine_name": "Albendazole 400mg chewable tabs",
+            "min_date": "2017-08-02",
+            "old_str_stock": "98.0%",
+            "stock": 0.98,
+            "str_stock": "98.0%",
+            "total_prescriptions": 4
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-09",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-07-25",
+            "old_str_stock": "99.1%",
+            "stock": 0.9906666666666667,
+            "str_stock": "99.1%",
+            "total_prescriptions": 28
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-09",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-07-22",
+            "old_str_stock": "97.8%",
+            "stock": 0.978,
+            "str_stock": "97.8%",
+            "total_prescriptions": 22
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-28",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-07-22",
+            "old_str_stock": "64.5%",
+            "stock": 0.645,
+            "str_stock": "64.5%",
+            "total_prescriptions": 71
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-07-22",
+            "medicine_name": "Paracetamol 100mg tabs",
+            "min_date": "2017-07-22",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "43",
+            "clinic_name": "Alula HC",
+            "max_date": "2017-08-02",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-07-22",
+            "old_str_stock": "99.8%",
+            "stock": 0.998,
+            "str_stock": "99.8%",
+            "total_prescriptions": 2
+        }
+    ]
+}
+Location ID: 44:
+{
+    "clinic_data": {
+        "44": {
+            "barcode_amox": {
+                "depletion": 0.0003333333333333333,
+                "inventory": 2999,
+                "max_date": "2017-07-06",
+                "min_date": "2017-07-06",
+                "stock": 0.9996666666666667,
+                "total_prescriptions": 1
+            },
+            "barcode_magn": {
+                "depletion": 0.001,
+                "inventory": 999,
+                "max_date": "2017-06-03",
+                "min_date": "2017-06-03",
+                "stock": 0.999,
+                "total_prescriptions": 1
+            },
+            "barcode_orsl": {
+                "depletion": 0.05,
+                "inventory": 190,
+                "max_date": "2017-06-05",
+                "min_date": "2017-05-31",
+                "stock": 0.95,
+                "total_prescriptions": 10
+            },
+            "barcode_par5": {
+                "depletion": 0.0025,
+                "inventory": 1995,
+                "max_date": "2017-09-07",
+                "min_date": "2017-08-03",
+                "stock": 0.9975,
+                "total_prescriptions": 5
+            },
+            "barcode_zinc": {
+                "depletion": 0.011,
+                "inventory": 989,
+                "max_date": "2017-06-05",
+                "min_date": "2017-05-31",
+                "stock": 0.989,
+                "total_prescriptions": 11
+            }
+        }
+    },
+    "clinic_table": [
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "depletion": 0.05,
+            "max_date": "2017-09-07",
+            "min_date": "2017-05-31",
+            "most_depleted_medicine": "ORS low osm. 20.5g/1L CAR",
+            "str_depletion": "5.0%"
+        }
+    ],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": [
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-07-06",
+            "medicine_name": "Amoxicillin 250mg disp.tab",
+            "min_date": "2017-07-06",
+            "old_str_stock": "100.0%",
+            "stock": 0.9996666666666667,
+            "str_stock": "100.0%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-06-03",
+            "medicine_name": "Magnesium trisilicate compound tabs",
+            "min_date": "2017-06-03",
+            "old_str_stock": "99.9%",
+            "stock": 0.999,
+            "str_stock": "99.9%",
+            "total_prescriptions": 1
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-06-05",
+            "medicine_name": "ORS low osm. 20.5g/1L CAR",
+            "min_date": "2017-05-31",
+            "old_str_stock": "95.0%",
+            "stock": 0.95,
+            "str_stock": "95.0%",
+            "total_prescriptions": 10
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-09-07",
+            "medicine_name": "Paracetamol 500mg tabs",
+            "min_date": "2017-08-03",
+            "old_str_stock": "99.8%",
+            "stock": 0.9975,
+            "str_stock": "99.8%",
+            "total_prescriptions": 5
+        },
+        {
+            "clinic_id": "44",
+            "clinic_name": "Gargaar HC",
+            "max_date": "2017-06-05",
+            "medicine_name": "Zinc 20mg tablets",
+            "min_date": "2017-05-31",
+            "old_str_stock": "98.9%",
+            "stock": 0.989,
+            "str_stock": "98.9%",
+            "total_prescriptions": 11
+        }
+    ]
+}
+Location ID: 45:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 46:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 47:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 48:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 49:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 50:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 51:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 52:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 53:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 54:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 55:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 56:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 57:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 58:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 59:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
+Location ID: 60:
+{
+    "clinic_data": {},
+    "clinic_table": [],
+    "clinic_table_title": "Prescribing clinics",
+    "medicine_table": []
+}
